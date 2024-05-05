@@ -1,0 +1,93 @@
+[submodule "airgeddon"]
+	path = airgeddon
+	url = ./airgeddon
+[submodule "AllHackingTools"]
+	path = AllHackingTools
+	url = ./AllHackingTools
+[submodule "Anti-DDOS"]
+	path = Anti-DDOS
+	url = ./Anti-DDOS
+[submodule "Awesome-Hacking"]
+	path = Awesome-Hacking
+	url = ./Awesome-Hacking
+[submodule "BruteShark"]
+	path = BruteShark
+	url = ./BruteShark
+[submodule "Ciphey"]
+	path = Ciphey
+	url = ./Ciphey
+[submodule "DARKARMY"]
+	path = DARKARMY
+	url = ./DARKARMY
+[submodule "DaProfiler"]
+	path = DaProfiler
+	url = ./DaProfiler
+[submodule "GHunter"]
+	path = GHunter
+	url = ./GHunter
+[submodule "Hacking-Security-Ebooks"]
+	path = Hacking-Security-Ebooks
+	url = ./Hacking-Security-Ebooks
+[submodule "IPGeoLocation"]
+	path = IPGeoLocation
+	url = ./IPGeoLocation
+[submodule "Mr.Holmes"]
+	path = Mr.Holmes
+	url = ./Mr.Holmes
+[submodule "Raccoon"]
+	path = Raccoon
+	url = ./Raccoon
+[submodule "Sn1per"]
+	path = Sn1per
+	url = ./Sn1per
+[submodule "TheFatRat"]
+	path = TheFatRat
+	url = ./TheFatRat
+[submodule "beyawak"]
+	path = beyawak
+	url = ./beyawak
+[submodule "copycolors"]
+	path = copycolors
+	url = ./copycolors
+[submodule "h4cker"]
+	path = h4cker
+	url = ./h4cker
+[submodule "hacker-roadmap"]
+	path = hacker-roadmap
+	url = ./hacker-roadmap
+[submodule "hackingtool"]
+	path = hackingtool
+	url = ./hackingtool
+[submodule "holehe"]
+	path = holehe
+	url = ./holehe
+[submodule "john"]
+	path = john
+	url = ./john
+[submodule "mitmAP"]
+	path = mitmAP
+	url = ./mitmAP
+[submodule "osint-tools"]
+	path = osint-tools
+	url = ./osint-tools
+[submodule "social-analyzer"]
+	path = social-analyzer
+	url = ./social-analyzer
+[submodule "sql-injection-payload-list"]
+	path = sql-injection-payload-list
+	url = ./sql-injection-payload-list
+[submodule "the-book-of-secret-knowledge"]
+	path = the-book-of-secret-knowledge
+	url = ./the-book-of-secret-knowledge
+[submodule "tookie-osint"]
+	path = tookie-osint
+	url = ./tookie-osint
+[submodule "toolss"]
+	path = toolss
+	url = ./toolss
+[submodule "webhack"]
+	path = webhack
+	url = ./webhack
+[submodule "yakit"]
+	path = yakit
+	url = ./yakit
