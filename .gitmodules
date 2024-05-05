@@ -1,93 +1,93 @@
 [submodule "airgeddon"]
 	path = airgeddon
-	url = ./airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon
 [submodule "AllHackingTools"]
 	path = AllHackingTools
-	url = ./AllHackingTools
+	url = https://github.com/mishakorzik/AllHackingTools
 [submodule "Anti-DDOS"]
 	path = Anti-DDOS
-	url = ./Anti-DDOS
+	url = https://github.com/ismailtasdelen/Anti-DDOS.git
 [submodule "Awesome-Hacking"]
 	path = Awesome-Hacking
-	url = ./Awesome-Hacking
+	url = https://github.com/Hack-with-Github/Awesome-Hacking
 [submodule "BruteShark"]
 	path = BruteShark
-	url = ./BruteShark
+	url = https://github.com/odedshimon/BruteShark
 [submodule "Ciphey"]
 	path = Ciphey
-	url = ./Ciphey
+	url = https://github.com/Ciphey/Ciphey
 [submodule "DARKARMY"]
 	path = DARKARMY
-	url = ./DARKARMY
+	url = https://github.com/D4RK-4RMY/DARKARMY.git
 [submodule "DaProfiler"]
 	path = DaProfiler
-	url = ./DaProfiler
+	url = https://github.com/daprofiler/DaProfiler.git
 [submodule "GHunter"]
 	path = GHunter
-	url = ./GHunter
+	url = https://github.com/lamer112311/GHunter
 [submodule "Hacking-Security-Ebooks"]
 	path = Hacking-Security-Ebooks
-	url = ./Hacking-Security-Ebooks
+	url = https://github.com/yeahhub/Hacking-Security-Ebooks
 [submodule "IPGeoLocation"]
 	path = IPGeoLocation
-	url = ./IPGeoLocation
+	url = https://github.com/maldevel/IPGeoLocation
 [submodule "Mr.Holmes"]
 	path = Mr.Holmes
-	url = ./Mr.Holmes
+	url = https://github.com/Lucksi/Mr.Holmes
 [submodule "Raccoon"]
 	path = Raccoon
-	url = ./Raccoon
+	url = https://github.com/evyatarmeged/Raccoon
 [submodule "Sn1per"]
 	path = Sn1per
-	url = ./Sn1per
+	url = https://github.com/1N3/Sn1per
 [submodule "TheFatRat"]
 	path = TheFatRat
-	url = ./TheFatRat
+	url = https://github.com/screetsec/TheFatRat
 [submodule "beyawak"]
 	path = beyawak
-	url = ./beyawak
+	url = https://github.com/Ranginang67/beyawak
 [submodule "copycolors"]
 	path = copycolors
-	url = ./copycolors
+	url = https://github.com/AbdoulMa/copycolors
 [submodule "h4cker"]
 	path = h4cker
-	url = ./h4cker
+	url = https://github.com/The-Art-of-Hacking/h4cker
 [submodule "hacker-roadmap"]
 	path = hacker-roadmap
-	url = ./hacker-roadmap
+	url = https://github.com/sundowndev/hacker-roadmap
 [submodule "hackingtool"]
 	path = hackingtool
-	url = ./hackingtool
+	url = https://github.com/Z4nzu/hackingtool
 [submodule "holehe"]
 	path = holehe
-	url = ./holehe
+	url = https://github.com/megadose/holehe
 [submodule "john"]
 	path = john
-	url = ./john
+	url = https://github.com/openwall/john
 [submodule "mitmAP"]
 	path = mitmAP
-	url = ./mitmAP
+	url = https://github.com/xdavidhu/mitmAP
 [submodule "osint-tools"]
 	path = osint-tools
-	url = ./osint-tools
+	url = https://github.com/HowToFind-bot/osint-tools
 [submodule "social-analyzer"]
 	path = social-analyzer
-	url = ./social-analyzer
+	url = https://github.com/qeeqbox/social-analyzer
 [submodule "sql-injection-payload-list"]
 	path = sql-injection-payload-list
-	url = ./sql-injection-payload-list
+	url = https://github.com/payloadbox/sql-injection-payload-list
 [submodule "the-book-of-secret-knowledge"]
 	path = the-book-of-secret-knowledge
-	url = ./the-book-of-secret-knowledge
+	url = https://github.com/trimstray/the-book-of-secret-knowledge
 [submodule "tookie-osint"]
 	path = tookie-osint
-	url = ./tookie-osint
+	url = https://github.com/Alfredredbird/tookie-osint
 [submodule "toolss"]
 	path = toolss
-	url = ./toolss
+	url = https://github.com/AnonHackerr/toolss
 [submodule "webhack"]
 	path = webhack
-	url = ./webhack
+	url = https://github.com/yan4ikyt/webhack
 [submodule "yakit"]
 	path = yakit
-	url = ./yakit
+	url = https://github.com/yaklang/yakit
