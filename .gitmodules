@@ -91,3 +91,6 @@
 [submodule "yakit"]
 	path = yakit
 	url = https://github.com/yaklang/yakit
+[submodule "CCTV"]
+	path = CCTV
+	url = https://github.com/IvanGlinkin/CCTV
